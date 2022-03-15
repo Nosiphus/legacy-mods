@@ -10,6 +10,8 @@ Big Reactors' newest release on CurseForge is 0.4.3A, but I have a copy of 0.4.5
 
 MrCrayFish's Furniture Mod 3.4 is available on his site, and 3.4.7 is available from Curse, but I have a backup of 3.4.8.
 
+Project Red for 1.6.4 seems to be completely missing as far as I can tell.
+
 Resonant Induction can only be found inside of Technic's mod archive, but the version I have is newer than that one.
 
 I have a newer build of Universal Electricity than Curse does.
