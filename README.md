@@ -3,6 +3,8 @@ Over the years, Nosiphus modpack updates have typically come out in rapid succes
 
 This is an archive of some of those downloads that are particularly difficult, if not downright impossible to track down. The goal is to get these files back to their original authors so they can be officially uploaded to the CurseForge repositories.
 
+As this repository serves our modpack download system as well, particularly for mods that cannot be directly downloaded in any other way.
+
 Examples:
 Applied Energistics 2 for 1.17.10's officially released version on Curse is Beta Revision 6, but I have an archive of Beta Revision 11, which was only uploaded to the Applied Energistics website that no longer exists.
 
