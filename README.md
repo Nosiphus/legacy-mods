@@ -6,7 +6,7 @@ This is an archive of some of those downloads that are particularly difficult, i
 In addition, this repository holds mods for our MultiMC-powered download system. Most of the mods use the active CurseForge releases, but there are mods that are either not hosted on CurseForge or, as stated, are newer than the Curse releases. We store mods that cannot be downloaded in other ways here.
 
 Examples:
-Applied Energistics 2 for 1.17.10's officially released version on Curse is Beta Revision 6, but I have an archive of Beta Revision 11, which was only uploaded to the Applied Energistics website that no longer exists.
+Applied Energistics 2 for 1.7.10's officially released version on Curse is Beta Revision 6, but I have an archive of Beta Revision 11, which was only uploaded to the Applied Energistics website that no longer exists.
 
 Big Reactors' newest release on CurseForge is 0.4.3A, but I have a copy of 0.4.5B, which was only available on the old Big Reactors website.
 
